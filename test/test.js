@@ -1,1 +1,1 @@
-Updated test.js content
+This is a test file inside test folder
