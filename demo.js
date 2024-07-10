@@ -1,1 +1,1 @@
-console.log("This is demo file")
+Updated test.js content
