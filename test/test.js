@@ -1,1 +1,1 @@
-This is a test file inside test folder
+I will remove the file contents od test.js
