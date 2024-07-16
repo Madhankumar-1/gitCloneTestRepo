@@ -1,1 +1,1 @@
-"{\"message\":\"hi\"}"
+"const data = \"sample\";"
