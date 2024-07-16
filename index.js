@@ -1,1 +1,1 @@
-"const data = \"sample\";"
+ImNvbnN0IGRhdGEgPSBcImR1bW1teVwiOyI=
