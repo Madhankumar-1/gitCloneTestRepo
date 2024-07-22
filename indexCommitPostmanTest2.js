@@ -1,1 +1,1 @@
-commitFilesJs
+commitFilesJsPostman
